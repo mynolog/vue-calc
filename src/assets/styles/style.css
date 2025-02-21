@@ -1,0 +1,13 @@
+:root {
+  --background: #292928;
+  --operand-button: #707070;
+  --operation-button: #ff9502;
+  --text: #eaeae9;
+  --formular-text: #a1a0a1;
+}
+
+html,
+body {
+  box-sizing: border-box;
+  height: 100%;
+}
