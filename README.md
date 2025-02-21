@@ -1,5 +1,23 @@
-# Vue 3 + TypeScript + Vite
+# Vue 계산기
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### 목적
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- Vue Options API 활용하여 계산기를 구현하면서, 상태 관리와 UI 상호작용을 연습한다.
+- 기본적인 사칙연산과 소수점 입력을 처리하고, 계산기의 UI와 상태를 관리하는 방법을 익힌다.
+
+### [👀 배포](https://vue-calc-chi.vercel.app/)
+
+### 미리보기
+
+<img src="images/preview.png" width="200px" />
+
+#### 구현한 기능
+
+- [x] 단일 사칙연산
+- [x] 연산 초기화
+- [x] 소수점 입력 처리
+
+#### 추가 구현 기능
+
+- [ ] 연속된 연산
+- [ ] 부호 전환(+/-)
